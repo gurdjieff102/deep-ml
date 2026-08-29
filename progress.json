@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:31:33.069Z",
+  "generated_at": "2026-10-19T01:31:35.510Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,45 @@
       "last_pushed_at": "2026-08-28T20:53:36.463Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-08-29T00:31:51.043Z",
+      "last_pushed_at": "2026-08-29T00:31:51.043Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-08-29T00:41:35.356Z",
+      "last_pushed_at": "2026-08-29T00:41:35.356Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-08-29T00:53:05.913Z",
+      "last_pushed_at": "2026-08-29T00:53:05.913Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }

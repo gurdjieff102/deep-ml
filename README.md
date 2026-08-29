@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 10 problems · 0 labs · 0 math
+**13** solved · 13 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,8 +16,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-08-28 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-28 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-08-28 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-08-29 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-28 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-08-28 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-08-29 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-08-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-28 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-28 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-28 | [solution](problems/0009-matrix-times-matrix) |
