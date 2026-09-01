@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:31:35.510Z",
+  "generated_at": "2026-10-19T01:31:37.260Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,97 @@
       "last_pushed_at": "2026-08-29T00:53:05.913Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-09-01T08:06:40.303Z",
+      "last_pushed_at": "2026-09-01T08:06:40.303Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-09-01T08:18:49.652Z",
+      "last_pushed_at": "2026-09-01T08:18:49.652Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:216": {
+      "kind": "problem",
+      "id": "216",
+      "title": "Thanksgiving Feast Predictor: Softmax for Dish Selection",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/216",
+      "path": "problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection",
+      "first_solved_at": "2026-09-01T20:36:02.359Z",
+      "last_pushed_at": "2026-09-01T20:36:02.359Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-09-01T20:50:21.851Z",
+      "last_pushed_at": "2026-09-01T20:50:21.851Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:641": {
+      "kind": "problem",
+      "id": "641",
+      "title": "Gibbs Softmax Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/641",
+      "path": "problems/0641-gibbs-softmax-action-selection",
+      "first_solved_at": "2026-09-01T21:13:13.178Z",
+      "last_pushed_at": "2026-09-01T21:13:13.178Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:962": {
+      "kind": "problem",
+      "id": "962",
+      "title": "Compare Naive vs Stable Softmax for Attention Scores",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/962",
+      "path": "problems/0962-compare-naive-vs-stable-softmax-for-attention-scores",
+      "first_solved_at": "2026-09-01T22:28:53.771Z",
+      "last_pushed_at": "2026-09-01T22:28:53.771Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:616": {
+      "kind": "problem",
+      "id": "616",
+      "title": "Policy Gradient with Softmax Action Selection",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/616",
+      "path": "problems/0616-policy-gradient-with-softmax-action-selection",
+      "first_solved_at": "2026-09-01T23:26:33.348Z",
+      "last_pushed_at": "2026-09-01T23:26:33.348Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
