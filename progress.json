@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:31:37.260Z",
+  "generated_at": "2026-10-19T01:31:39.346Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -260,6 +260,58 @@
       "last_pushed_at": "2026-09-01T23:26:33.348Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-02T18:43:06.897Z",
+      "last_pushed_at": "2026-09-02T18:43:06.897Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2026-09-02T21:22:23.619Z",
+      "last_pushed_at": "2026-09-02T21:22:23.619Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-09-02T22:11:13.021Z",
+      "last_pushed_at": "2026-09-02T22:11:13.021Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-09-02T23:45:23.709Z",
+      "last_pushed_at": "2026-09-02T23:45:23.709Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
