@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 26 problems · 0 labs · 0 math
+**36** solved · 36 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-09-04 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-08-28 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-08-28 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-28 | [solution](problems/0004-calculate-mean-by-row-or-column) |
@@ -32,12 +33,21 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-28 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-28 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-01 | [solution](problems/0219-derivative-of-softmax) |
+| [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-09-04 | [solution](problems/0905-implement-a-transformer-encoder-block) |
+| [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-09-04 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
+| [Implement Adapter Bottleneck Layer for Transformer Fine-Tuning](https://www.deep-ml.com/problems/873) | medium | 2026-09-04 | [solution](problems/0873-implement-adapter-bottleneck-layer-for-transformer-fine-tuning) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-02 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-28 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-28 | [solution](problems/0007-matrix-transformation) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-01 | [solution](problems/1227-numerically-stable-softmax) |
+| [Parallel Attention and FFN Transformer Block](https://www.deep-ml.com/problems/1043) | medium | 2026-09-04 | [solution](problems/1043-parallel-attention-and-ffn-transformer-block) |
 | [Policy Gradient with Softmax Action Selection](https://www.deep-ml.com/problems/616) | medium | 2026-09-01 | [solution](problems/0616-policy-gradient-with-softmax-action-selection) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-03 | [solution](problems/0025-single-neuron-with-backpropagation) |
+| [Tinygrad: Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/926) | medium | 2026-09-04 | [solution](problems/0926-tinygrad-implement-a-transformer-encoder-block) |
+| [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-09-04 | [solution](problems/0491-build-a-transformer-encoder-layer) |
+| [Implement a Spatiotemporal Transformer Block](https://www.deep-ml.com/problems/700) | hard | 2026-09-04 | [solution](problems/0700-implement-a-spatiotemporal-transformer-block) |
+| [Implement Cross-Layer KV Sharing in Transformer](https://www.deep-ml.com/problems/1020) | hard | 2026-09-04 | [solution](problems/1020-implement-cross-layer-kv-sharing-in-transformer) |
+| [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-09-04 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |
 
 ---
 

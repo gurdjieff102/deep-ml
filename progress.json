@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:31:41.097Z",
+  "generated_at": "2026-10-19T01:31:43.102Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -338,6 +338,136 @@
       "last_pushed_at": "2026-09-03T00:47:53.836Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2026-09-04T21:44:02.361Z",
+      "last_pushed_at": "2026-09-04T21:44:02.361Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:491": {
+      "kind": "problem",
+      "id": "491",
+      "title": "Build a Transformer Encoder Layer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/491",
+      "path": "problems/0491-build-a-transformer-encoder-layer",
+      "first_solved_at": "2026-09-04T22:21:46.368Z",
+      "last_pushed_at": "2026-09-04T22:21:46.368Z",
+      "language": "python",
+      "lines": 128
+    },
+    "problem:700": {
+      "kind": "problem",
+      "id": "700",
+      "title": "Implement a Spatiotemporal Transformer Block",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/700",
+      "path": "problems/0700-implement-a-spatiotemporal-transformer-block",
+      "first_solved_at": "2026-09-04T22:25:44.533Z",
+      "last_pushed_at": "2026-09-04T22:25:44.533Z",
+      "language": "python",
+      "lines": 101
+    },
+    "problem:720": {
+      "kind": "problem",
+      "id": "720",
+      "title": "Implement a Vision Transformer (ViT) Image Encoder",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/720",
+      "path": "problems/0720-implement-a-vision-transformer-vit-image-encoder",
+      "first_solved_at": "2026-09-04T22:34:18.074Z",
+      "last_pushed_at": "2026-09-04T22:34:18.074Z",
+      "language": "python",
+      "lines": 81
+    },
+    "problem:905": {
+      "kind": "problem",
+      "id": "905",
+      "title": "Implement a Transformer Encoder Block",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/905",
+      "path": "problems/0905-implement-a-transformer-encoder-block",
+      "first_solved_at": "2026-09-04T22:40:07.195Z",
+      "last_pushed_at": "2026-09-04T22:40:07.195Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:926": {
+      "kind": "problem",
+      "id": "926",
+      "title": "Tinygrad: Implement a Transformer Encoder Block",
+      "difficulty": "medium",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/926",
+      "path": "problems/0926-tinygrad-implement-a-transformer-encoder-block",
+      "first_solved_at": "2026-09-04T23:03:54.471Z",
+      "last_pushed_at": "2026-09-04T23:03:54.471Z",
+      "language": "python",
+      "lines": 67
+    },
+    "problem:1043": {
+      "kind": "problem",
+      "id": "1043",
+      "title": "Parallel Attention and FFN Transformer Block",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1043",
+      "path": "problems/1043-parallel-attention-and-ffn-transformer-block",
+      "first_solved_at": "2026-09-04T23:17:37.851Z",
+      "last_pushed_at": "2026-09-04T23:17:37.851Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:1056": {
+      "kind": "problem",
+      "id": "1056",
+      "title": "Pre-Norm GPT Transformer Block Forward Pass",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1056",
+      "path": "problems/1056-pre-norm-gpt-transformer-block-forward-pass",
+      "first_solved_at": "2026-09-04T23:33:58.599Z",
+      "last_pushed_at": "2026-09-04T23:33:58.599Z",
+      "language": "python",
+      "lines": 129
+    },
+    "problem:873": {
+      "kind": "problem",
+      "id": "873",
+      "title": "Implement Adapter Bottleneck Layer for Transformer Fine-Tuning",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/873",
+      "path": "problems/0873-implement-adapter-bottleneck-layer-for-transformer-fine-tuning",
+      "first_solved_at": "2026-09-04T23:43:41.350Z",
+      "last_pushed_at": "2026-09-04T23:43:41.350Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:1020": {
+      "kind": "problem",
+      "id": "1020",
+      "title": "Implement Cross-Layer KV Sharing in Transformer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1020",
+      "path": "problems/1020-implement-cross-layer-kv-sharing-in-transformer",
+      "first_solved_at": "2026-09-04T23:52:24.067Z",
+      "last_pushed_at": "2026-09-04T23:52:24.067Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
