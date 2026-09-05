@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:31:43.102Z",
+  "generated_at": "2026-10-19T01:31:45.137Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -468,6 +468,45 @@
       "last_pushed_at": "2026-09-04T23:52:24.067Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-05T00:13:17.375Z",
+      "last_pushed_at": "2026-09-05T00:13:17.375Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2026-09-05T00:14:40.033Z",
+      "last_pushed_at": "2026-09-05T00:14:40.033Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-09-05T00:16:20.622Z",
+      "last_pushed_at": "2026-09-05T00:16:20.622Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
