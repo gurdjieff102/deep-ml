@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:31:45.137Z",
+  "generated_at": "2026-10-19T01:31:47.216Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -507,6 +507,84 @@
       "last_pushed_at": "2026-09-05T00:16:20.622Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2026-09-08T21:42:50.146Z",
+      "last_pushed_at": "2026-09-08T21:42:50.146Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-09-08T23:13:27.678Z",
+      "last_pushed_at": "2026-09-08T23:13:27.678Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-09-08T23:30:54.588Z",
+      "last_pushed_at": "2026-09-08T23:30:54.588Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-08T23:32:20.978Z",
+      "last_pushed_at": "2026-09-08T23:32:20.978Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-09-08T23:35:03.297Z",
+      "last_pushed_at": "2026-09-08T23:35:03.297Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2026-09-08T23:55:12.860Z",
+      "last_pushed_at": "2026-09-08T23:55:12.860Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
