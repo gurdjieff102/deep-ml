@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:31:47.216Z",
+  "generated_at": "2026-10-19T01:31:49.137Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -585,6 +585,84 @@
       "last_pushed_at": "2026-09-08T23:55:12.860Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2026-09-09T00:16:16.408Z",
+      "last_pushed_at": "2026-09-09T00:16:16.408Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-09-09T00:25:01.412Z",
+      "last_pushed_at": "2026-09-09T00:25:01.412Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-09-09T22:47:05.769Z",
+      "last_pushed_at": "2026-09-09T22:47:05.769Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:32": {
+      "kind": "problem",
+      "id": "32",
+      "title": "Generate Sorted Polynomial Features",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/32",
+      "path": "problems/0032-generate-sorted-polynomial-features",
+      "first_solved_at": "2026-09-09T23:12:52.588Z",
+      "last_pushed_at": "2026-09-09T23:12:52.588Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:33": {
+      "kind": "problem",
+      "id": "33",
+      "title": "Generate Random Subsets of a Dataset",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/33",
+      "path": "problems/0033-generate-random-subsets-of-a-dataset",
+      "first_solved_at": "2026-09-09T23:23:52.869Z",
+      "last_pushed_at": "2026-09-09T23:23:52.869Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2026-09-09T23:37:21.551Z",
+      "last_pushed_at": "2026-09-09T23:37:21.551Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }

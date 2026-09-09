@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 45 problems · 0 labs · 0 math
+**51** solved · 51 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-02 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gibbs Softmax Action Selection](https://www.deep-ml.com/problems/641) | easy | 2026-09-01 | [solution](problems/0641-gibbs-softmax-action-selection) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-09-08 | [solution](problems/0046-implement-precision-metric) |
+| [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-09-09 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-08 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-01 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-09-05 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
@@ -40,17 +41,22 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-08-28 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-08-28 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-01 | [solution](problems/0219-derivative-of-softmax) |
+| [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-09-09 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-09-09 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
+| [Generate Sorted Polynomial Features](https://www.deep-ml.com/problems/32) | medium | 2026-09-09 | [solution](problems/0032-generate-sorted-polynomial-features) |
 | [Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/905) | medium | 2026-09-04 | [solution](problems/0905-implement-a-transformer-encoder-block) |
 | [Implement a Vision Transformer (ViT) Image Encoder](https://www.deep-ml.com/problems/720) | medium | 2026-09-04 | [solution](problems/0720-implement-a-vision-transformer-vit-image-encoder) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-08 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Adapter Bottleneck Layer for Transformer Fine-Tuning](https://www.deep-ml.com/problems/873) | medium | 2026-09-04 | [solution](problems/0873-implement-adapter-bottleneck-layer-for-transformer-fine-tuning) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-09-08 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-09 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-02 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-08-28 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-08-28 | [solution](problems/0007-matrix-transformation) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-01 | [solution](problems/1227-numerically-stable-softmax) |
 | [Parallel Attention and FFN Transformer Block](https://www.deep-ml.com/problems/1043) | medium | 2026-09-04 | [solution](problems/1043-parallel-attention-and-ffn-transformer-block) |
 | [Policy Gradient with Softmax Action Selection](https://www.deep-ml.com/problems/616) | medium | 2026-09-01 | [solution](problems/0616-policy-gradient-with-softmax-action-selection) |
+| [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-09 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-03 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Tinygrad: Implement a Transformer Encoder Block](https://www.deep-ml.com/problems/926) | medium | 2026-09-04 | [solution](problems/0926-tinygrad-implement-a-transformer-encoder-block) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-09-04 | [solution](problems/0491-build-a-transformer-encoder-layer) |
