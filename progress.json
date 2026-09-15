@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T01:31:49.137Z",
+  "generated_at": "2026-10-19T01:31:51.055Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -663,6 +663,58 @@
       "last_pushed_at": "2026-09-09T23:37:21.551Z",
       "language": "python",
       "lines": 7
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-09-15T21:21:24.569Z",
+      "last_pushed_at": "2026-09-15T21:21:24.569Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-09-15T21:25:47.465Z",
+      "last_pushed_at": "2026-09-15T21:25:47.465Z",
+      "language": "python",
+      "lines": 53
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-09-15T22:15:20.222Z",
+      "last_pushed_at": "2026-09-15T22:15:20.222Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:71": {
+      "kind": "problem",
+      "id": "71",
+      "title": "Calculate Root Mean Square Error (RMSE)",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/71",
+      "path": "problems/0071-calculate-root-mean-square-error-rmse",
+      "first_solved_at": "2026-09-15T22:19:06.304Z",
+      "last_pushed_at": "2026-09-15T22:19:06.304Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
